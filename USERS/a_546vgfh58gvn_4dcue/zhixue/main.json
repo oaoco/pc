@@ -1,0 +1,12 @@
+[
+  {
+    "name": "zhixue",
+    "version": "1.2.0",
+    "base_url": "https://oaoco.github.io/pc/zhixue",
+    "exec_url": "https://oaoco.github.io/pc/zhixue/zhixue.exe",
+    "argv": [],
+    "func": { "main": ["test", { "test_kwargs": "test_kwargs_value" }] },
+    "obj": {},
+    "old": { "1.0.0": "https://oaoco.github.io/pc/zhixue/1.0.0" }
+  }
+]
