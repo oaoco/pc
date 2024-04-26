@@ -1,0 +1,7 @@
+{
+  "version": "1.2.0",
+  "url": "",
+  "argv": [],
+  "func": { "main": ["test", { "test_kwargs": "test_kwargs_value" }] },
+  "obj":{}
+}
