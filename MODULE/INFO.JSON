@@ -1,6 +1,10 @@
 [
     {
         "name":"zhixue",
-        "url":
+        "url":"https://oaoco.github.io/pc/MODULE/zhixue/",
+        "versions":[
+            "1.0.0",
+            "1.2.0"
+        ]
     }
 ]

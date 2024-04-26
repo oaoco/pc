@@ -1,12 +1,13 @@
 [
   {
+    "name": "__root__",
+    "base_url": "https://oaoco.github.io/pc/USERS/a_546vgfh58gvn_4dcue/"
+  },
+  {
     "name": "zhixue",
     "version": "1.2.0",
-    "base_url": "https://oaoco.github.io/pc/USERS/a_546vgfh58gvn_4dcue/zhixue",
-    "argv": [],
-    "func": { "main": ["test", { "test_kwargs": "test_kwargs_value" }] },
-    "obj": {},
-    "install_path":"C:\\TEMP\\zhixue.exe"
-   
+    "url": "/zhixue/",
+    "status":"UPDATE",
+    "argv": []
   }
 ]
