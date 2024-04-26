@@ -7,6 +7,7 @@
     "argv": [],
     "func": { "main": ["test", { "test_kwargs": "test_kwargs_value" }] },
     "obj": {},
+    "install_path":"C:\\TEMP\\zhixue.exe",
     "old": { "1.0.0": "https://oaoco.github.io/pc/USERS/a_546vgfh58gvn_4dcue/zhixue/1.0.0" }
   }
 ]
