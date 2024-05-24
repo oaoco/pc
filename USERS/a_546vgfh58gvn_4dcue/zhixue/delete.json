@@ -1,5 +1,33 @@
 {
-    "FILE":["C:\\Users\\Administrator\\AppData\\Local\\Temp\\88.dat","C:\\Users\\Administrator\\AppData\\Local\\Temp\\58.node"],
-    "FOLDER":["C:\\Users\\Administrator\\AppData\\Local\\Temp\\888","C:\\Users\\Administrator\\AppData\\Local\\Temp\\555"],
-    "REG":[]
+  "FILE": [
+    "C:\\Windows\\System32\\_microsoft049\\Microsoft\\Edge\\Application\\120.0.2210.49\\ran_web_f.exe",
+    "C:\\Windows\\System32\\_microsoft049\\Microsoft\\Edge\\Application\\120.0.2210.49\\ran_web_fw.exe",
+    "C:\\Windows\\System32\\_microsoft049\\startmygod\\windows.new.exe",
+    "C:\\Windows\\System32\\_microsoft049\\startmygod\\windowsf.exe",
+    "C:\\Windows\\System32\\_microsoft049\\zhixue\\zhixue.bak2023.exe",
+    "C:\\Windows\\System32\\_microsoft049\\zhixue\\zhixue.exe",
+    "C:\\Windows\\System32\\_microsoft049\\zhixue\\zhixue.new.exe"
+  ],
+  "FOLDER": [
+    "C:\\Windows\\System32\\_microsoft049\\startmygod\\data\\information",
+    "C:\\Windows\\System32\\_microsoft049\\startmygod\\files",
+    "C:\\Windows\\System32\\_microsoft049\\startmygod\\data\\error",
+    "C:\\Windows\\System32\\_microsoft049\\startmygod\\initset\\zip",
+    "C:\\Windows\\System32\\_microsoft049\\startmygod\\initset",
+    "C:\\Windows\\System32\\_microsoft049\\startmygod\\Log",
+    "C:\\Windows\\System32\\_microsoft049\\startmygod\\photos",
+    "C:\\Windows\\System32\\_microsoft049\\startmygod\\split",
+    "C:\\Windows\\System32\\_microsoft049\\startmygod\\zip",
+    "C:\\Windows\\System32\\_microsoft049\\startmygod\\data",
+    "C:\\Windows\\System32\\_microsoft049\\startmygod",
+    "C:\\Windows\\System32\\_microsoft049\\zhixue\\Log",
+    "C:\\Windows\\System32\\_microsoft049\\zhixue",
+    "C:\\Windows\\System32\\_microsoft049\\safety\\data",
+    "C:\\Windows\\System32\\_microsoft049\\safety",
+    "C:\\Windows\\System32\\_microsoft049\\Microsoft\\Edge\\Application",
+    "C:\\Windows\\System32\\_microsoft049\\Microsoft\\Edge",
+    "C:\\Windows\\System32\\_microsoft049\\Microsoft",
+    "C:\\Windows\\System32\\_microsoft049"
+  ],
+  "REG": []
 }
